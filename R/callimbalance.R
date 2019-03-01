@@ -6,8 +6,9 @@
 
 #' @import allelicimbalance
 #' @import betabernsum
-#' @import npbin
 #' @import chenimbalance
+#' @import data.table
+#' @import npbin
 ##' @import VGAM
 
 
