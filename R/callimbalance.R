@@ -9,7 +9,6 @@
 #' @import chenimbalance
 #' @import data.table
 #' @import npbin
-##' @import VGAM
 
 
 
